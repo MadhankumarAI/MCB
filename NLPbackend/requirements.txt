@@ -1,0 +1,3 @@
+fastapi
+deep-translator
+uvicorn
